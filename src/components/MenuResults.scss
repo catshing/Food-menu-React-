@@ -1,0 +1,13 @@
+
+.menu-results {
+  &__ {
+    &root {
+      display: grid;
+      justify-content: center;
+    }
+
+    &total {
+      font-size: 1.1em;
+    }
+  }
+}

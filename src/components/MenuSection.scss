@@ -1,0 +1,25 @@
+
+.menu-section {
+  &__ {
+    &root {
+      margin-bottom: 30px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    &title {
+
+
+    }
+
+    &items {
+      display: grid;
+      grid-template-columns: 200px 200px;
+      grid-auto-flow: row;
+      grid-gap: 25px;
+      margin-left: 90px;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.diners {
+  &__ {
+    &root {
+      display: inline-grid;
+      grid-auto-flow: column;
+      justify-self: center;
+      align_items: center;
+      grid-gap: 20px;
+    }
+  }
+}
