@@ -15,4 +15,15 @@ The total bill will show at the bottom of the modal.
 - The application will present a menu that will be provided and may later require adjustment by a restaurant.
 - The application will enforce some restrictions provided by the restaurant. (see [#rules](#rules))
 
+## Demo 
+
+![alt text](https://github.com/catshing/Food-menu-React-/blob/master/Demo/users.png) 
+![alt text](https://github.com/catshing/Food-menu-React-/blob/master/Demo/menu.png) 
+![alt text](https://github.com/catshing/Food-menu-React-/blob/master/Demo/menuConstraints.png) 
+![alt text](https://github.com/catshing/Food-menu-React-/blob/master/Demo/userError.png) 
+
+
+
+
+
 
